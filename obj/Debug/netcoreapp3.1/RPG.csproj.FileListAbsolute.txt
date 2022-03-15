@@ -1,0 +1,13 @@
+C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Cursos DIO\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Cursos DIO\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Cursos DIO\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Cursos DIO\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Cursos DIO\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Cursos DIO\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
