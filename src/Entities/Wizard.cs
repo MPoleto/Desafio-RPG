@@ -2,7 +2,7 @@ namespace RPG.src.Entities
 {
     public class Wizard : Hero
     {
-        public Wizard(string name, string heroType, int level, int maxHP, int maxMP, string weapon): base (null, null, 0, 0, 0, null)
+        public Wizard(string name, string heroType, int level, int maxHP, int maxMP, string weapon): base (name, heroType, level, maxHP, maxMP, weapon)
         {
             this.name = name;
             this.heroType = heroType;
