@@ -12,3 +12,17 @@ C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
 C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
 C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.AssemblyReference.cache
 C:\Cursos DIO\RPG\obj\Debug\netcoreapp3.1\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_DIO\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Cursos_DIO\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Cursos_DIO\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Cursos_DIO\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Cursos_DIO\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Cursos_DIO\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.AssemblyReference.cache
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Cursos_DIO\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache

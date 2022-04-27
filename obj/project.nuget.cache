@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+mIxNlXgXsSSWGyC2JXWiuejeTRQWADUWdTQUB1+bFoXEufIPpF03tO4x6rOanIWu05cJgwlNu0fxhunGiE5fA==",
+  "dgSpecHash": "ltyJtwxLjP4rO4OWWrxiVjIj33++H0WUFVSiJh/LuZYHkmQ3spiflzCXndoZcxQUV1mIC6I0tUryZ6VPfG72uQ==",
   "success": true,
-  "projectFilePath": "C:\\Cursos DIO\\RPG\\RPG.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\marid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Cursos_DIO\\RPG\\RPG.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

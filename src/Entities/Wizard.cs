@@ -4,12 +4,6 @@ namespace RPG.src.Entities
     {
         public Wizard(string name, string heroType, int level, int maxHP, int maxMP, string weapon): base (name, heroType, level, maxHP, maxMP, weapon)
         {
-            this.name = name;
-            this.heroType = heroType;
-            this.level = level;
-            this.maxHP = maxHP;
-            this.maxMP = maxMP;
-            this.weapon = weapon; 
         }
 
 

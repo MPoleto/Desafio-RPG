@@ -1,6 +1,6 @@
 # Prática de C# usando personagens de RPG
 
-Mais um desafio da DIO: Abstraindo um jogo de RPG usando orientação com C#
+Desafio de projeto da DIO: Abstraindo um jogo de RPG usando orientação com C#
 
 Exercício para colocar em prática os 4 pilares do Paradigma da Orientação à Objeto:
  - Abstração;

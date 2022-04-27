@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos DIO\\RPG\\RPG.csproj",
+      "projectUniqueName": "C:\\Cursos_DIO\\RPG\\RPG.csproj",
       "projectName": "RPG",
-      "projectPath": "C:\\Cursos DIO\\RPG\\RPG.csproj",
+      "projectPath": "C:\\Cursos_DIO\\RPG\\RPG.csproj",
       "packagesPath": "C:\\Users\\marid\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos DIO\\RPG\\obj\\",
+      "outputPath": "C:\\Cursos_DIO\\RPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marid\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
